@@ -41,6 +41,7 @@ form .display input{
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+    color: #fdfdfd;
 }
 form input.equal{
 width: 145px;
@@ -51,6 +52,7 @@ form input.operator{
 form input.rang{
     color: #fdfdfd;
 }
+
 
 
 
