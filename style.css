@@ -7,7 +7,7 @@
 .cotainer{
     width: 100%;
     height: 100vh;
-    background: #c8e1ef; ;
+    background: #c8e1ef;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -51,6 +51,7 @@ form input.operator{
 form input.rang{
     color: #fdfdfd;
 }
+
 
 
 
