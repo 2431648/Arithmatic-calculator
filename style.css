@@ -7,13 +7,17 @@
 .cotainer{
     width: 100%;
     height: 100vh;
-    background: #c8e1ef;
+    background: #c8e1ef; ;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .calculator{
-    background: #151133;
+    background: #112a33;
     padding: 20px;
     border-radius: 10px;
 }
@@ -47,13 +51,11 @@ form input.equal{
 width: 145px;
 }
 form input.operator{
-    color: #db1414;
+    color: #00ffcc;
 }
 form input.rang{
     color: #fdfdfd;
 }
-
-
 
 
 
